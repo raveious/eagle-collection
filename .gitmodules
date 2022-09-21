@@ -1,3 +1,6 @@
 [submodule "SparkFun"]
 	path = SparkFun
 	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
+[submodule "steakunderscore"]
+	path = steakunderscore
+	url = https://github.com/steakunderscore/eagle-cad-libraries.git
